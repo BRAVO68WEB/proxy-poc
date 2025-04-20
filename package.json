@@ -1,0 +1,10 @@
+{
+  "name": "proxy-poc",
+  "module": "index.ts",
+  "type": "module",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  }
+}
